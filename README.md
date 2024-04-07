@@ -1,0 +1,2 @@
+# ortalama
+java101
